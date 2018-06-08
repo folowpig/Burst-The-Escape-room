@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRTK\push_button.cs">
+    <Files>
+      <File FileName="Assets\SteamVR\Scripts\SteamVR_RenderModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Keypad System\Keypad System\Scripts\KeyPad.js" Line="1" Column="1" />
+      <File FileName="Assets\Keypad System\Keypad System\How To Use.txt" Line="1" Column="1" />
+      <File FileName="Assets\Keypad System\Keypad System\Scripts\Press.js" Line="1" Column="1" />
+      <File FileName="Assets\Keypad System\Keypad System\Scripts\KeyPadRay.js" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_InteractableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_ControllerEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Locomotion\VRTK_BasicTeleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\push_button.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
