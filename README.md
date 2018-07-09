@@ -17,8 +17,6 @@
 - Interactable objects are highlighted red when targeted by the controllers
 - __Hardware__: HTC Vive HMD system - two controllers, two sensors, and one head display
 
-![Burst-The-Escape-Room-Controller]
-(https://github.com/folowpig/Burst-The-Escape-room/blob/master/Assets/Capture.PNG?raw=true)
+![Burst-The-Escape-Room-Controller](https://raw.githubusercontent.com/folowpig/Burst-The-Escape-room/master/Assets/Capture.PNG?raw=true)
 
-![Burst-The-Escape-Room-Environment]
-(https://github.com/folowpig/Burst-The-Escape-room/blob/master/Assets/2.PNG?raw=true)
+![Burst-The-Escape-Room-Environment](https://raw.githubusercontent.com/folowpig/Burst-The-Escape-room/master/Assets/2.PNG?raw=true)
